@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Code+Camp!;I'm+Md.+Yousuf+Mansur&center=true&size=30&color=8E2DE2">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Code+Camp!;I'm+Md.+Yousuf+Mansur&center=true&size=25&color=8E2DE2">
 </h1>
 
 <p align="center">
