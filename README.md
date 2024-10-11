@@ -21,7 +21,6 @@
 ## 💫 About Me
 
 - 🔭 I'm currently working on **innovative web applications**
-- 🌱 I'm currently mastering **Blazor** and **.NET MAUI**
 - 👯 I'm looking to collaborate on **projects focusing on user experience and accessibility**
 - 💬 Ask me about **.NET, Angular, React, and full-stack development**
 - ⚡ Fun fact: **I collect metro smart pass cards from around the world!**
